@@ -1,7 +1,6 @@
 module github.com/MarioCarrion/todo-api-microservice-example
 
 go 1.23.0
-
 require (
 	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b
 	github.com/confluentinc/confluent-kafka-go/v2 v2.0.2
@@ -15,7 +14,7 @@ require (
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/google/go-cmp v0.6.0
 	github.com/google/uuid v1.6.0
-	github.com/hashicorp/vault/api v1.15.0
+	github.com/hashicorp/vault/api v1.16.0
 	github.com/jackc/pgx/v5 v5.7.2
 	github.com/jackc/tern/v2 v2.3.2
 	github.com/joho/godotenv v1.5.1
@@ -122,7 +121,7 @@ require (
 	goa.design/goa/v3 v3.10.2 // indirect
 	golang.org/x/crypto v0.32.0 // indirect
 	golang.org/x/mod v0.17.0 // indirect
-	golang.org/x/net v0.25.0 // indirect
+	golang.org/x/net v0.34.0 // indirect
 	golang.org/x/sync v0.10.0 // indirect
 	golang.org/x/sys v0.29.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
