@@ -20,7 +20,7 @@ require (
 	github.com/jackc/tern/v2 v2.3.2
 	github.com/joho/godotenv v1.5.1
 	github.com/mercari/go-circuitbreaker v0.0.2
-	github.com/oapi-codegen/runtime v1.1.1
+	github.com/oapi-codegen/runtime v1.1.2
 	github.com/ory/dockertest/v3 v3.11.0
 	github.com/riandyrn/otelchi v0.5.1
 	github.com/streadway/amqp v1.1.0
