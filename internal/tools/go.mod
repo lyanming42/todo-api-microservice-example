@@ -5,7 +5,7 @@ go 1.23.0
 require (
 	github.com/fdaines/spm-go v0.11.1
 	github.com/golangci/golangci-lint v1.63.4
-	github.com/google/yamlfmt v0.15.0
+	github.com/google/yamlfmt v0.21.0
 	github.com/jackc/tern/v2 v2.3.2
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.11.2
 	github.com/oapi-codegen/oapi-codegen/v2 v2.4.1
@@ -48,7 +48,6 @@ require (
 	github.com/blizzy78/varnamelen v0.8.0 // indirect
 	github.com/bmatcuk/doublestar/v4 v4.7.1 // indirect
 	github.com/bombsimon/wsl/v4 v4.5.0 // indirect
-	github.com/braydonk/yaml v0.7.0 // indirect
 	github.com/breml/bidichk v0.3.2 // indirect
 	github.com/breml/errchkjson v0.4.0 // indirect
 	github.com/butuzov/ireturn v0.3.1 // indirect
@@ -217,7 +216,7 @@ require (
 	github.com/stbenjam/no-sprintf-host-port v0.2.0 // indirect
 	github.com/stoewer/go-strcase v1.2.0 // indirect
 	github.com/stretchr/objx v0.5.2 // indirect
-	github.com/stretchr/testify v1.10.0 // indirect
+	github.com/stretchr/testify v1.11.1 // indirect
 	github.com/subosito/gotenv v1.4.1 // indirect
 	github.com/tdakkota/asciicheck v0.3.0 // indirect
 	github.com/tetafro/godot v1.4.20 // indirect
@@ -245,6 +244,7 @@ require (
 	go.uber.org/automaxprocs v1.6.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
+	go.yaml.in/yaml/v3 v3.0.3 // indirect
 	goa.design/goa/v3 v3.13.2 // indirect
 	golang.org/x/crypto v0.31.0 // indirect
 	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0 // indirect
@@ -271,4 +271,5 @@ require (
 	modernc.org/sqlite v1.34.5 // indirect
 	mvdan.cc/gofumpt v0.7.0 // indirect
 	mvdan.cc/unparam v0.0.0-20240528143540-8a5130ca722f // indirect
+	sigs.k8s.io/yaml v1.6.0 // indirect
 )
